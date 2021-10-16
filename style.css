@@ -1,0 +1,22 @@
+button {
+    font-size: 40pt;
+    border-radius: 10px;
+    background-color: cyan;
+    height: 80px;
+    width: 100px;
+}
+
+.a {
+    width: 204px;
+}
+
+.b {
+    width: 308px;
+}
+
+input {
+    width: 400px;
+    height: 80px;
+    font-size: 40pt;
+    text-align: right;
+}
